@@ -211,7 +211,9 @@ ros2 run vlm_nav_pkg semantic_nav
 ```
 
 
-[Watch Semantic Navigation](media/semantic_nav.mp4)
+![Semantic Navigation](media/semantic_nav_hd.gif)
+
+
 
 
 ## References 
