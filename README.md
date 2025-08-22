@@ -35,7 +35,7 @@ cp -r /tb3_ws/VLM-based_semantic_navigation_ROS2/turtlebot3_simulations/turtlebo
 
 ```
 
-## 3. Install CLIP and dependencies for VLM-based perception and navigation
+## 4. Install CLIP and dependencies for VLM-based perception and navigation
 
 ```bash
 
@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 
 
-## 4. Build the package
+## 5. Build the package
 
 ```bash
 cd ~/tb3_ws
