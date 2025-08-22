@@ -22,6 +22,19 @@ sudo apt install ros-humble-slam-toolbox
 sudo apt install gazebo libgazebo-dev
 ```
 
+
+## 3. Build gazebo office world with required models:
+
+### Copy Office Model to Local Gazebo Models Directory
+
+```bash
+
+mkdir -p ~/.gazebo/models/
+cp -r /tb3_ws/VLM-based_semantic_navigation_ROS2/turtlebot3_simulations/turtlebot3_gazebo/models/turtlebot3_office/* ~/.gazebo/models/
+
+
+```
+
 ## 3. Install CLIP and dependencies for VLM-based perception and navigation
 
 ```bash
